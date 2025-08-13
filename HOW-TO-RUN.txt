@@ -1,0 +1,37 @@
+🚀 HOW TO RUN THE RESUME BUILDER
+=====================================
+
+Option 1: Using Command Prompt
+------------------------------
+1. Open Command Prompt (cmd)
+2. Navigate to this folder:
+   cd "C:\Users\sahil\OneDrive\Desktop\Resume Builder\resume-builder"
+3. Run: npm start
+
+Option 2: Using PowerShell
+--------------------------
+1. Open PowerShell
+2. Navigate to this folder:
+   cd "C:\Users\sahil\OneDrive\Desktop\Resume Builder\resume-builder"
+3. Run: npm start
+
+Option 3: Using the batch files
+-------------------------------
+Try double-clicking one of these files:
+- quick-start.bat (simplest)
+- start.bat (with messages)
+- start-resume-builder.ps1 (PowerShell version)
+
+If batch files don't work, it might be due to Windows security settings.
+
+Option 4: Alternative method
+---------------------------
+1. Hold Shift and right-click in this folder
+2. Select "Open PowerShell window here" or "Open command window here"
+3. Type: npm start
+4. Press Enter
+
+✅ The application will open at: http://localhost:3000
+🛑 To stop the server, press Ctrl+C in the terminal window
+
+📝 NOTE: Make sure you have Node.js installed from https://nodejs.org/
